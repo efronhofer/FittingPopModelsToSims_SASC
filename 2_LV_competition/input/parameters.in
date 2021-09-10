@@ -1,0 +1,26 @@
+inputfile for parameters
+
+simulation time (time_max) 300
+300
+number of repeats (max_runs) 100
+20
+resource1 intraspecific competition coefficient (alpha_11)
+0.0002
+resource2 intraspecific competition coefficient (alpha_22)
+0.0004
+resource1 interspecific competition coefficient (alpha_21)
+0.0001
+resource2 interspecific competition coefficient (alpha_12)
+0.0005
+resource1 birth rate (B0_res_1)
+0.15
+resource2 birth rate (B0_res_2)
+0.15
+resource1 death rate (d0_res_1)
+0.05
+resource2 death rate (d0_res_2)
+0.05
+starting conditions resources1 (res0_1)
+100
+starting conditions resources2 (res0_2)
+100

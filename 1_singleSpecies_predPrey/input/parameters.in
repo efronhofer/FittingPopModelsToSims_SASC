@@ -1,0 +1,34 @@
+inputfile for parameters
+
+simulation time (time_max) 300
+300
+number of repeats (max_runs) 100
+10
+consumer efficiency (e0)
+0.1
+consumer handling time (h0)
+3
+consumer baseline search efficiency (searchEff0) 0.2
+0.2
+consumer death rate (d0_cons)
+0.05
+resource competition coefficient (beta)
+0.0002
+resource birth rate (B0_res)
+0.3
+resource death rate (d0_res)
+0.2
+resource Allee effect strength parameter 1 (eta_Allee)
+0.3
+resource Allee effect strength parameter 2 (gamma_Allee)
+0.1
+starting conditions consumer patch (cons0)
+20
+starting conditions resources patch (res0)
+100
+density regulation function for resources (drf; 0:logistic; 1:BH; 2:logistic_allee; 3:BH_allee)
+0
+functional response for consumer (fr; 1: linear; 2: saturating)
+2
+additive process error constant for consumers (apecc)
+0
